@@ -1,0 +1,14 @@
+<style>
+        body {background-color: silver;
+          font-family:sans-serif;
+          font-size:13px;
+          text-align:left;
+         }
+         #a {
+           text-decoration: none;
+         }
+        h2 {background-color: white}
+        .terrestial {color : brown}
+        .gasgiant {color: gray}
+        .icegiant { color: blue}
+</style>
